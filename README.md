@@ -44,5 +44,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdimindee&count_private=true&show_icons=true&locale=en" alt="mehdimindee" />  
+<a href="https://github.com/mehdimindee">
+<img align="center" src="https://github-readme-stats-six-olive-18.vercel.app/api?username=mehdimindee&custom_title=My%20Work%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdimindee" />  
+</a>
 </div>
